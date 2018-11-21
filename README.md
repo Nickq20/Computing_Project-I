@@ -1,2 +1,2 @@
-# Computing_Project-I
-For the collaborative effort of completing our uni computing project
+# Computing_Project-I Original finished code
+This contains the code i showed to the group on Monday (19th Nov)
