@@ -1,2 +1,2 @@
-# Computing_Project-I Original finished code
-This contains the code i showed to the group on Monday (19th Nov)
+# Computing_Project-I Q1 table mod
+Table output tidy up
